@@ -39,4 +39,9 @@ public class AppTest {
 	public void testAnotherClass() {
 		EmptyClass.emptyMethod();
 	}
+
+	@Test
+	public void testAnotherClassTest() {
+
+	}
 }
