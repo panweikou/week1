@@ -11,6 +11,9 @@ import org.junit.Test;
  */
 public class AppTest {
 
+	/**
+	 * test time
+	 */
 	@Test
 	public void testShouldBePassed() {
 		assertTrue(true);
