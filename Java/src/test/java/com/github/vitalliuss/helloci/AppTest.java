@@ -12,7 +12,7 @@ import org.junit.Test;
 public class AppTest {
 
 	/**
-	 * test time1s
+	 * test time1s next
 	 */
 	@Test
 	public void testShouldBePassed() {
