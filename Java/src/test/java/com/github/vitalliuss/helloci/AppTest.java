@@ -41,7 +41,7 @@ public class AppTest {
 	}
 
 	@Test
-	public void testAnotherClassTest1() {
+	public void testAnotherClassTest3() {
 
 	}
 }
